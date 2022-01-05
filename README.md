@@ -1,3 +1,5 @@
+Warning: this repository is obsolete, its content has been moved to https://github.com/NASA-PDS/registry-api/tree/main/model
+
 # PDS-API-JAVALIB
 
 Visit the software's website at https://nasa-pds.github.io/pds-api-javalib/
